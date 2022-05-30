@@ -17,12 +17,13 @@ idk what else to put here
     public var Twitter
     public var Asherlr23
 
-
-     Public void CreateSocials() {
-      Discord = Unk0wn#4264;
-      Twitter = @asherlr23;
-      Scratch = Asherlr23;
-      }
+     }
+       Public void CreateSocials() {
+        Discord = Unk0wn#4264;
+        Twitter = @asherlr23;
+        Scratch = Asherlr23;
+        }
+      
     }
 
 
