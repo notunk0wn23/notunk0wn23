@@ -1,6 +1,6 @@
 Heya, I’m @asherlr23.
-
-idk what to put here
+Ima a random scratcher/programmer who knows mostly c# console code.
+idk what else to put here
 
 
 <!---
