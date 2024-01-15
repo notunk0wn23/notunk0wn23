@@ -1,34 +1,61 @@
 # About Me
+will update soon
 
-Heya, I’m @asherlr23.
+```json
+{
+    "name":"notunk0wn",
+    "setup": {
+        "hardware": {
+            "keyboard": {
+                "name": "TUF Gaming K7 Keyboard",
+                "manufacturer": "ASUS",
+            },
+            "mouse": {
+                "name": "Logitech DARKFIELD MX Mouse",
+                "manufacturer": "Logitech",
+            },
+            "camera/mic": {
+                "name": "Logitech C930e Webcam",
+                "manufacturer": "Logitech",
+            },
+            "monitor": {
+                "name": "Philips Monitor (Dont know the name lol)",
+                "manufacturer": "Philips"
+            },
+            "computer": {
+                "name": "ROG Strix G15CS",
+                "manufacturer": "ASUS",
+            }
+        },
+        "software" {
+            "OS-1": {
+                "name": "Windows 11 Home 23H2",
+                "info": "Secondary OS, came with my PC, only used for running windows apps"
+            },
+            "OS-2": {
+                "name": "Arch Linux",
+                "window-manager": "Hyprland",
+                "login-manager": "sddm",
+                "status-bar": "waybar",
+                "info": "Main OS, does nearly everything i do other than certain windows apps such as roblox."
+            },
 
-Ima a random scratcher/programmer who knows mostly c# console code.
-idk what else to put here
-
-# Socials
-
-
-    Class unk0wn : asherlr23 {
-
-
-    public unk0wn() {
-
-    public var Discord;
-    public var Twitter
-    public var Asherlr23
-
-     }
-       Public void CreateSocials() {
-        Discord = Unk0wn#4264;
-        Twitter = @asherlr23;
-        Scratch = Asherlr23;
-        }
-      
+            "Software": {
+                "recording": {
+                    "name": "OBS Studio",
+                },
+                "browser": {
+                    "name": "Firefox",
+                    "modifications": "Using BetterFox"
+                }
+        },
+    },
+    "socials": {
+        "discord": "notunk0wn",
+        "twitter": "@Asherlr23",
     }
-
-
-
-
+}
+```
 <!---
 asherlr23/asherlr23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
