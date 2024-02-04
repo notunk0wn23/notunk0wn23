@@ -40,14 +40,14 @@ will update soon
                 "info": "Main OS, does nearly everything i do other than certain windows apps such as roblox."
             },
 
-            "Software": {
-                "recording": {
-                    "name": "OBS Studio",
-                },
+            "apps": {
+                "recording": { "name": "OBS Studio", },
                 "browser": {
                     "name": "Firefox",
                     "modifications": "Using BetterFox"
-                }
+                },
+                "art": { "name": "gimp" }
+                
         },
     },
     "socials": {
