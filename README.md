@@ -3,7 +3,7 @@ will update soon
 
 ```json
 {
-    "name":"notunk0wn",
+    "name": "spaced",
     "setup": {
         "hardware": {
             "keyboard": {
@@ -36,18 +36,21 @@ will update soon
                 "name": "Arch Linux",
                 "window-manager": "Hyprland",
                 "login-manager": "sddm",
-                "status-bar": "waybar",
+                "status-bar": "aylurs-gtk-shell",
                 "info": "Main OS, does nearly everything i do other than certain windows apps such as roblox."
             },
 
             "apps": {
                 "recording": { "name": "OBS Studio", },
-                "browser": {
+                "browser-1": {
                     "name": "Firefox",
                     "modifications": "Using BetterFox"
                 },
+                "browser-2": {
+                    "name": "Arc",
+                    "notes": "PLEASE BROWSER COMPANY MAKE A LINUX PORT OF ARC AAAAAA"
+                },
                 "art": { "name": "gimp" }
-                
         },
     },
     "socials": {
@@ -56,7 +59,3 @@ will update soon
     }
 }
 ```
-<!---
-asherlr23/asherlr23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
