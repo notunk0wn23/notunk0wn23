@@ -53,9 +53,5 @@ will update soon
                 "art": { "name": "gimp" }
         },
     },
-    "socials": {
-        "discord": "notunk0wn",
-        "twitter": "@Asherlr23",
-    }
 }
 ```
