@@ -18,9 +18,9 @@ will update soon
                 "name": "Logitech C930e Webcam",
                 "manufacturer": "Logitech",
             },
-            "monitor": {
-                "name": "Philips Monitor (Dont know the name lol)",
-                "manufacturer": "Philips"
+            "monitors": {
+                "name": "Sceptre F24 monitor(s)",
+                "manufacturer": "SCEPTRE"
             },
             "computer": {
                 "name": "ROG Strix G15CS",
